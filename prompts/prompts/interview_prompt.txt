@@ -1,0 +1,4 @@
+Generate 5 interview questions with clear answers based on the topic.
+Questions should range from basic understanding to practical application.
+
+Topic: {TOPIC}
