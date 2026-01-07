@@ -1,0 +1,4 @@
+Summarize the topic in under 100 words.
+Focus on clarity and key concepts.
+
+Topic: {TOPIC}
